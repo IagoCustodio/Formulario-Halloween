@@ -10,8 +10,6 @@
 
  # Previa do projeto
  
- # Page Principal
-
 <div align="center"><a name="menu"></a>
 
 ![formulario_1](https://github.com/IagoCustodio/Formulario-Halloween/assets/74364305/17ac6c2b-bfd8-4db5-981e-3f0ec2785fbe)
